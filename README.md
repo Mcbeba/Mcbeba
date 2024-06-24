@@ -7,10 +7,10 @@ Something you should know about me: I'm focused on becoming an amazing Full-stac
 
 - 🎉 I've just finished the Software-Builders Bootcamp by Veridas in collaboration with Servicio Navarro de Empleo.
 - 🔭 I'm looking for a job opportunity to gain experience and continue learning.
-- 💻 I'm currently doing an internship in the area of project management and applications using React.
-- 🌱 I’m currently improving my knowledge of Javascript and React with [The Ultimate React Course](https://www.udemy.com/course/the-ultimate-react-course/).
+- 💻 I'm recently finished an internship in the area of project management and applications using React (Mancomunidad de la Comarca de Pamplona).
+- 🌱 I’m currently improving my knowledge of Javascript and React with [The Ultimate React Course 2024: React, Next.js, Redux & More](https://www.udemy.com/course/the-ultimate-react-course/).
 - 👯 I’m looking to collaborate on new projects.
-- 📫 How to reach me: [linkedIn](https://www.linkedin.com/ln/mariana-cecilia-).
+- 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/mariana-cecilia-becerril-b%C3%A1ez-454675b7/).
 - ⚡ Fun fact: I love dogs 🐶!
 
 
